@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello, I'm Jordan
+
+:wave: Full-stack developer with a penchant for frontend <br />
+:evergreen_tree: Find me in Seattle, WA <br />
+:eyes: Looking to learn more about UX/UI, web accessibility, and design thinking <br />
+:point_right: Currently working on [HubBub](https://github.com/jnweiner/HubBub), my take on the classic web forum, built with React Hooks, Postgres, Node, & Express <br />
+
+
 
 <!--
 **jnweiner/jnweiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
