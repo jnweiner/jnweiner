@@ -1,9 +1,10 @@
 ### Hello, I'm Jordan
 
 :wave: Full-stack developer with a penchant for frontend <br />
-:evergreen_tree: Find me in Seattle, WA <br />
+:evergreen_tree: Based in Seattle, WA <br />
+:briefcase: Currently mentoring software engineering students at Hack Reactor <br />
 :eyes: Looking to learn more about UX/UI, web accessibility, and design thinking <br />
-:point_right: Currently working on [HubBub](https://github.com/jnweiner/HubBub), my take on the classic message board <br />
+:point_right: Working on [HubBub](https://github.com/jnweiner/HubBub), my take on the classic message board <br />
 :mailbox: Let's connect: weinerj8@gmail.com <br />
 
 
