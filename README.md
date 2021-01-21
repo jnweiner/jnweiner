@@ -4,7 +4,7 @@
 :evergreen_tree: Find me in Seattle, WA <br />
 :mailbox: React me at weinerj8@gmail.com <br />
 :eyes: Looking to learn more about UX/UI, web accessibility, and design thinking <br />
-:point_right: Currently working on [HubBub](https://github.com/jnweiner/HubBub), a social platform empowering users to connect with their community
+:point_right: Currently working on [HubBub](https://github.com/jnweiner/HubBub), my take on the classic message board
 
 
 
