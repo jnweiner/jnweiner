@@ -2,9 +2,10 @@
 
 :wave: Full-stack developer with a penchant for frontend <br />
 :evergreen_tree: Find me in Seattle, WA <br />
+:mailbox: React me at weinerj8@gmail.com <br />
 :eyes: Looking to learn more about UX/UI, web accessibility, and design thinking <br />
-:point_right: Currently working on [HubBub](https://github.com/jnweiner/HubBub), my take on the classic message board <br />
-:mailbox: Let's connect: weinerj8@gmail.com
+:point_right: Currently working on [HubBub](https://github.com/jnweiner/HubBub), a social platform empowering users to connect with their community <br />
+![Demo of Interests Page](https://hubbub-demo.s3-us-west-2.amazonaws.com/2021-01-20+15.28.17.gif)
 <br />
 
 
