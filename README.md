@@ -2,8 +2,8 @@
 
 :wave: Full-stack developer with a penchant for frontend <br />
 :briefcase: Currently mentoring software engineering students at Hack Reactor Seattle <br />
-:point_right: Working on [HubBub](https://github.com/jnweiner/HubBub), my take on the classic message board <br />
 :eyes: Looking to learn more about UX/UI, web accessibility, and design thinking <br />
+:point_right: Working on [HubBub](https://github.com/jnweiner/HubBub), my take on the classic message board <br />
 :mailbox: Let's connect: weinerj8@gmail.com <br />
 
 
