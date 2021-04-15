@@ -4,7 +4,7 @@
 
 :evergreen_tree: Based in Seattle, WA <br />
 
-:eyes: Looking to learn more about UX/UI, web accessibility, and design thinking <br />
+:eyes: Looking to learn more about UX/UI, web accessibility, and authentication <br />
 
 :hatching_chick: Currently working on:
 * Tinkering with [HubBub](https://github.com/jnweiner/HubBub), my take on the classic message board
