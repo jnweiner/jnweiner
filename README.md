@@ -6,9 +6,9 @@
 
 :eyes: Looking to learn more about UX/UI, web accessibility, and design thinking <br />
 
-:hatching_chick: Current projects:
-* Just started [MentorMatch](https://github.com/jnweiner/MentorMatch), to assist with a new alumni mentorship program I'm building for Hack Reactor Seattle
-* Adding new features to [HubBub](https://github.com/jnweiner/HubBub), my take on the classic message board
+:hatching_chick: Currently working on:
+* Tinkering with [HubBub](https://github.com/jnweiner/HubBub), my take on the classic message board
+* Learning TypeScript and Hapi.js as I prepare to join [Auth0](https://auth0.com/) as a Software Engineer in June 🎉
 
 :mailbox: Let's connect: weinerj8@gmail.com <br />
 
