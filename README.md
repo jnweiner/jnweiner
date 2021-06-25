@@ -4,7 +4,7 @@
 
 :evergreen_tree: Based in Seattle, WA <br />
 
-:shield: Software Engineer at Auth0 <br />
+:rocket: Wrote my first line of code in July 2020 and never looked back! <br />
 
 :hatching_chick: Currently working on:
 * Tinkering with [HubBub](https://github.com/jnweiner/HubBub), my take on the classic message board
