@@ -4,11 +4,11 @@
 
 :evergreen_tree: Based in Seattle, WA <br />
 
-:eyes: Looking to learn more about UX/UI, web accessibility, and authentication <br />
+:shield: Software Engineer at Auth0 <br />
 
 :hatching_chick: Currently working on:
 * Tinkering with [HubBub](https://github.com/jnweiner/HubBub), my take on the classic message board
-* Learning TypeScript and Hapi.js as I prepare to join [Auth0](https://auth0.com/) as a Software Engineer in June 🎉
+* Learning TypeScript and Hapi.js
 
 :mailbox: Let's connect: weinerj8@gmail.com <br />
 
