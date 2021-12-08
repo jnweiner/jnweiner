@@ -1,14 +1,10 @@
 ### Hello, I'm Jordan
 
-:wave: Full-stack developer with a penchant for frontend <br />
+:wave: Full-stack engineer on the [Auth0](https://auth0.com/) Marketplace team <br />
 
 :evergreen_tree: Based in Seattle, WA <br />
 
 :rocket: Wrote my first line of code in July 2020 and never looked back! <br />
-
-:hatching_chick: Currently working on:
-* Tinkering with [HubBub](https://github.com/jnweiner/HubBub), my take on the classic message board
-* Learning TypeScript and Hapi.js
 
 :mailbox: Let's connect: weinerj8@gmail.com <br />
 
