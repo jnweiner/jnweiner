@@ -1,6 +1,8 @@
 ### Hello, I'm Jordan
 
-:wave: Full-stack engineer on the [Auth0](https://auth0.com/) Marketplace team <br />
+:wave: Full-stack engineer on the Okta AI Frameworks & Services Team <br />
+
+:eyes: I'm over at [my work Github](https://github.com/jnweiner-auth0) mostly these days <br />
 
 :evergreen_tree: Based in Seattle, WA <br />
 
